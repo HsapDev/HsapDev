@@ -32,6 +32,6 @@
 <div>
 <a href="https://github.com/HsapDev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsapDev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HsapDev&show_icons=true&theme=dracula&count_private=true"/>
 </div>
-![Snake animation](https://github.com/HsapDev/HsapDev/blob/output/github-contribution-grid-snake.svg)
 
